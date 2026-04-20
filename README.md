@@ -4,15 +4,7 @@
 
 [Ethernaut website](https://ethernaut.openzeppelin.com/)
 
-This repository is a collection of my solutions for the game.
-
-Also, check out the related blog post for more details:
-
-[Ethernaut tips and solutions](https://jeiwan.net/posts/ethernaut-tips-and-solutions/)
-
 ### Usage
 
-```shell
-$ yarn
-$ hardhat test
+$ forge test
 ```
